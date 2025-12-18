@@ -1,6 +1,6 @@
 # Community Detection with Reinforcement Learning
 
-This project seeks to apply reinforcement learning to the task of modularity maximization for community detection on graphs.
+This project applies reinforcement learning to the task of modularity maximization for community detection on graphs.
 
 Each episode in the environment follows the following steps:
 <p align="left">
