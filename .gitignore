@@ -1,0 +1,9 @@
+model_*/
+void/
+__pycache__
+.DS_store
+*.ipynb
+!work_citeseer.ipynb
+!work_cora.ipynb
+!work_pubmed.ipynb
+!work_synth.ipynb

@@ -1,0 +1,8 @@
+dgl==2.1.0
+gymnasium
+numba==0.58.1
+numpy==1.24.3
+pandas
+pydantic
+torch==2.1.0
+torchdata==0.7.0
