@@ -12,3 +12,5 @@ An adaptation of Deep Q-Learning is used to optimize the modularity-based reward
   <img src="assets/synth_reward.png" width="49%">
   <img src="assets/synth_modularity.png" width="49%">
 </p>
+
+See the [write-up](final-report.pdf) for full technical details.
